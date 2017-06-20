@@ -1,0 +1,17 @@
+{
+  "menu" : [
+        "titulo",
+        "hr",
+        {
+          "lista":[
+            "anchor",
+            "bis"
+          ]
+        }
+    ],
+    "conteudo" : [
+          "Titulo",
+          "Hr",
+          "Text"
+    ]
+}
