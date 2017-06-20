@@ -5,7 +5,7 @@ class Config
 {
   const
     SHOW_ERROR = true,
-    DIR_TEMPLATE = "http://limaserver/PageEsy/engine/Templetes/",
+    DIR_TEMPLATE = "http://limaserver/DanielLima/PageEsy/Templetes/basic.maked/",
     TEMPLATE_DEFALT = "defalt",
 
     DB_HOST = "localhost",
